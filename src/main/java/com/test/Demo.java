@@ -4,7 +4,7 @@ public class Demo {
 	
 	
 	@Test
-	public void () {
+	public void GitPrac {
 		
 			System.out.println("Hello World");
 	}
